@@ -25,5 +25,5 @@ https://www.meraevents.com/event/quantum-computing-weekend-workshop-2-days-micro
 ----
 
 <div align="center">
-  <a href="https://www.meraevents.com/event/quantum-computing-weekend-workshop-2-days-microsoft-qdk-coding-and-circuits?ucode=organizer"><img alt="Quantum Computer Image" src="https://i.postimg.cc/2SKtG9y3/Quantum-Computing-Weekend-Workshop.png" /></a>
+  <a href="http://to.absk.im/qworkshop"><img alt="Quantum Computer Image" src="https://i.postimg.cc/2SKtG9y3/Quantum-Computing-Weekend-Workshop.png" /></a>
 </div>
